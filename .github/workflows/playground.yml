@@ -13,7 +13,7 @@ jobs:
       - name: Executa 1s
         run: 1s
 
-windows_job:
+  windows_job:
     
     runs-on: windows-latest
 
